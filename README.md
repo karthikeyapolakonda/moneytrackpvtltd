@@ -1,5 +1,5 @@
 # Money Track Pvt Ltd - Personal Finance Tracker
-website link:- https://karthikeyapolakonda.github.io/MoneyTrackPrivateLimited/
+website link:- https://karthikeyapolakonda.github.io/moneytrackpvtltd/
 
 A comprehensive, modern, and feature-rich personal finance tracking application built with HTML, CSS, and JavaScript.
 
